@@ -19,6 +19,7 @@ the tool still works - that field is just left blank.
 """
 
 import os
+import time
 import datetime as dt
 import yaml
 
@@ -89,8 +90,8 @@ def main():
         name = beat["name"]
         writer = beat.get("writer", "")
         keywords = beat["keywords"]
-        print(f"Searching beat: {name} ...")
-
+        print(f"Searching beat: {name} ...") 
+        time.sleep(1.5)
         pubmed_results = search_pubmed(keywords, days_back, max_results, pubmed_api_key)
         biorxiv_results = filter_biorxiv(biorxiv_pool, keywords, max_results)
 
