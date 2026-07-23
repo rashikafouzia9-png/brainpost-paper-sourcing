@@ -3,12 +3,12 @@
 # Keywords are combined with OR within a beat, and searched against
 # title + abstract on PubMed and bioRxiv.
 
-days_back: 30          # only surface papers from the last N days
-max_results_per_beat: 12   # how many candidates to pull per beat, per source
+days_back: 30          
+max_results_per_beat: 12  
 
 beats:
   - name: "AI & Computational Neuroscience"
-    writer: "You"
+    writer: "Rashika Elahi"
     keywords:
       - "machine learning neuroscience"
       - "deep learning brain"
