@@ -37,8 +37,8 @@ def fetch_recent_biorxiv(days_back: int, max_pages: int = 5) -> list[dict]:
         all_papers.extend(collection)
         cursor += 100
         # messages[0].count tells us total available; stop if we've got them all
-        total = data.get("messages", [{}])[0].get("total", 0)
-        if cursor >= total:
+        total = int(data.get("messages", [{}])[0].get("total", 0))
+   if cursor >= total:
             break
 
     return all_papers
