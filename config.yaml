@@ -1,0 +1,42 @@
+# Brain Post paper-sourcing config
+# Add/edit a block per writer. Each beat has its own keyword set.
+# Keywords are combined with OR within a beat, and searched against
+# title + abstract on PubMed and bioRxiv.
+
+days_back: 30          # only surface papers from the last N days
+max_results_per_beat: 12   # how many candidates to pull per beat, per source
+
+beats:
+  - name: "AI & Computational Neuroscience"
+    writer: "You"
+    keywords:
+      - "machine learning neuroscience"
+      - "deep learning brain"
+      - "computational model neuron"
+      - "pose estimation behavior"
+      - "connectomics machine learning"
+      - "neural network EEG"
+
+  - name: "Clinical Neuroscience"
+    writer: "Writer 2"
+    keywords:
+      - "clinical neurology trial"
+      - "neurodegenerative disease treatment"
+      - "epilepsy therapy"
+      - "stroke rehabilitation"
+
+  - name: "Cognitive & Behavioral Neuroscience"
+    writer: "Writer 3"
+    keywords:
+      - "cognitive neuroscience memory"
+      - "decision making brain"
+      - "behavioral neuroscience"
+      - "attention perception cortex"
+
+  - name: "Molecular & Cellular Neuroscience"
+    writer: "Writer 4"
+    keywords:
+      - "synaptic plasticity"
+      - "neurogenesis"
+      - "glial cell function"
+      - "neurotransmitter receptor"
