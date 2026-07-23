@@ -2,7 +2,7 @@
 
 Covers the last 30 days.
 ## AI & Computational Neuroscience  
-*Writer: You*
+*Writer: Rashika Elahi*
 
 _No matches this window - try widening the keywords in config.yaml._
 
