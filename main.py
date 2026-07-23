@@ -10,14 +10,6 @@ Usage:
     pip install -r requirements.txt
     python main.py
 
-Optional: set PUBMED_API_KEY as an environment variable to raise your
-NCBI rate limit (free, from https://www.ncbi.nlm.nih.gov/account/).
-
-Optional: set ANTHROPIC_API_KEY to also generate a rough one-line
-"why this might matter" draft for each paper via Claude. Without it,
-the tool still works - that field is just left blank.
-"""
-
 import os
 import time
 import datetime as dt
@@ -26,15 +18,9 @@ import yaml
 from fetch_pubmed import search_pubmed
 from fetch_biorxiv import fetch_recent_biorxiv, filter_biorxiv
 
-try:
-    import anthropic
-    HAS_ANTHROPIC = True
-except ImportError:
-    HAS_ANTHROPIC = False
-
 
 def draft_relevance_note(client, title: str) -> str:
-    """Ask Claude for a single-sentence 'why this might matter' draft.
+    """Ask Claude for a single sentence 'why this might matter' draft.
     This is a rough starting point for the writer, not a final line."""
     try:
         msg = client.messages.create(
@@ -76,8 +62,6 @@ def main():
     pubmed_api_key = os.environ.get("PUBMED_API_KEY")
     anthropic_key = os.environ.get("ANTHROPIC_API_KEY")
     client = None
-    if HAS_ANTHROPIC and anthropic_key:
-        client = anthropic.Anthropic(api_key=anthropic_key)
 
     # bioRxiv has no keyword search - pull the recent window ONCE and
     # filter it per beat locally, rather than re-fetching per beat.
