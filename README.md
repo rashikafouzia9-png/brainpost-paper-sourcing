@@ -12,11 +12,8 @@ Outputs a single `digest.md` file grouped by beat.
 - **bioRxiv**: bioRxiv's API doesn't support keyword search, so the
   tool pulls every posting in the date window once, then filters it
   locally against each beat's keywords. This is fetched once and
-  reused across all beats, not re-fetched per beat.
-- Results from both sources are merged and de-duplicated per beat.
-- If you provide an `ANTHROPIC_API_KEY`, each paper also gets a rough
-  one-line "why this might matter" draft — a starting point for the
-  writer, not a finished line.
+  reused across all beats, not refetched per beat.
+- Results from both sources are merged and deduplicated per beat.
 
 ## Setup (run it yourself, once)
 
@@ -26,7 +23,6 @@ cd paper-sourcing-tool
 pip install -r requirements.txt
 python main.py
 ```
-
 This creates `digest.md` in the same folder. Open it, skim it, and
 use whatever's actually relevant that month.
 
@@ -47,15 +43,6 @@ The included GitHub Actions workflow (`.github/workflows/weekly_digest.yml`)
 runs the tool every Monday and commits the updated `digest.md` back to
 the repo, so the team can just check the file rather than running
 anything themselves.
-
-To enable it:
-1. Push this repo to GitHub.
-2. Go to Settings → Secrets and variables → Actions.
-3. Add `ANTHROPIC_API_KEY` (optional, for the relevance-note drafts).
-4. Add `PUBMED_API_KEY` (optional, raises your NCBI rate limit — get
-   one free at https://www.ncbi.nlm.nih.gov/account/).
-5. That's it — it'll run on schedule, or you can trigger it manually
-   from the Actions tab any time.
 
 ## Notes / known limitations
 
