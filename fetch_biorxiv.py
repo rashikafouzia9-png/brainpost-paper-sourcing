@@ -9,9 +9,23 @@ title + abstract.
 """
 
 import datetime as dt
+import time
 import requests
 
 BIORXIV_BASE = "https://api.biorxiv.org/details/biorxiv"
+
+
+def _get_with_retry(url: str, timeout: int = 60, retries: int = 3) -> requests.Response:
+    """bioRxiv's API can be slow under load - retry a couple of times
+    with a longer timeout before giving up."""
+    last_exc = None
+    for attempt in range(retries):
+        try:
+            return requests.get(url, timeout=timeout)
+        except requests.exceptions.ReadTimeout as exc:
+            last_exc = exc
+            time.sleep(3 * (attempt + 1))
+    raise last_exc
 
 
 def fetch_recent_biorxiv(days_back: int, max_pages: int = 5) -> list[dict]:
@@ -28,7 +42,7 @@ def fetch_recent_biorxiv(days_back: int, max_pages: int = 5) -> list[dict]:
     cursor = 0
     for _ in range(max_pages):
         url = f"{BIORXIV_BASE}/{date_range}/{cursor}/json"
-        resp = requests.get(url, timeout=20)
+        resp = _get_with_retry(url, timeout=60, retries=3)
         resp.raise_for_status()
         data = resp.json()
         collection = data.get("collection", [])
