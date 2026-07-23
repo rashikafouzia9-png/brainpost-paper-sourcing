@@ -24,7 +24,7 @@ def fetch_recent_biorxiv(days_back: int, max_pages: int = 5) -> list[dict]:
     start = end - dt.timedelta(days=days_back)
     date_range = f"{start.isoformat()}/{end.isoformat()}"
 
-    all_papers = []
+all_papers = []
     cursor = 0
     for _ in range(max_pages):
         url = f"{BIORXIV_BASE}/{date_range}/{cursor}/json"
@@ -36,13 +36,11 @@ def fetch_recent_biorxiv(days_back: int, max_pages: int = 5) -> list[dict]:
             break
         all_papers.extend(collection)
         cursor += 100
-        # messages[0].count tells us total available; stop if we've got them all
         total = int(data.get("messages", [{}])[0].get("total", 0))
-   if cursor >= total:
+        if cursor >= total:
             break
 
-    return all_papers
-
+    return all_papers 
 
 def filter_biorxiv(all_papers: list[dict], keywords: list[str], max_results: int) -> list[dict]:
     """Keep only papers whose title or abstract mentions a keyword."""
