@@ -19,6 +19,21 @@ def _build_term(keywords: list[str]) -> str:
     return " OR ".join(parts)
 
 
+def _get_with_retry(url: str, params: dict, retries: int = 4) -> requests.Response:
+    """NCBI rate-limits aggressively without an API key - back off and
+    retry on 429 (Too Many Requests) instead of failing immediately."""
+    last_exc = None
+    for attempt in range(retries):
+        resp = requests.get(url, params=params, timeout=20)
+        if resp.status_code == 429:
+            last_exc = requests.exceptions.HTTPError("429 Too Many Requests")
+            time.sleep(2 * (attempt + 1))
+            continue
+        resp.raise_for_status()
+        return resp
+    raise last_exc
+
+
 def search_pubmed(keywords: list[str], days_back: int, max_results: int,
                    api_key: str | None = None) -> list[dict]:
     """Return a list of {title, authors, journal, pub_date, url, source} dicts."""
@@ -29,22 +44,20 @@ def search_pubmed(keywords: list[str], days_back: int, max_results: int,
         "term": term,
         "retmax": max_results,
         "datetype": "pdat",
-        "reldate": days_back,   # only papers dated within the last N days
+        "reldate": days_back,
         "retmode": "json",
         "sort": "date",
     }
     if api_key:
         params["api_key"] = api_key
 
-    resp = requests.get(f"{EUTILS_BASE}/esearch.fcgi", params=params, timeout=20)
-    resp.raise_for_status()
+    resp = _get_with_retry(f"{EUTILS_BASE}/esearch.fcgi", params)
     id_list = resp.json().get("esearchresult", {}).get("idlist", [])
 
     if not id_list:
         return []
 
-    # Be polite to NCBI's rate limit before the follow-up call
-    time.sleep(0.4)
+    time.sleep(1.0)
 
     summary_params = {
         "db": "pubmed",
@@ -54,8 +67,7 @@ def search_pubmed(keywords: list[str], days_back: int, max_results: int,
     if api_key:
         summary_params["api_key"] = api_key
 
-    resp = requests.get(f"{EUTILS_BASE}/esummary.fcgi", params=summary_params, timeout=20)
-    resp.raise_for_status()
+    resp = _get_with_retry(f"{EUTILS_BASE}/esummary.fcgi", summary_params)
     summaries = resp.json().get("result", {})
 
     papers = []
