@@ -42,3 +42,5 @@ Not trying to be clever here, it's a transparent point system, editable at the t
 - No citation counts through the free NCBI API, so "impact" is really just a journal prestige proxy, which isn't the same thing and I know it
 - Papers less than about a week old sometimes aren't indexed yet, so very fresh work gets missed
 - A few journals format abstracts oddly and the output snippet comes out truncated mid sentence — haven't fixed this yet
+
+[![tests](https://github.com/rashikafouzia9-png/brainpost-paper-sourcing/actions/workflows/ci.yml/badge.svg)](https://github.com/rashikafouzia9-png/brainpost-paper-sourcing/actions)
