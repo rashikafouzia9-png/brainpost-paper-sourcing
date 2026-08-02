@@ -1,57 +1,44 @@
-# Brain Post Paper Sourcing Tool
+# Brain Post Paper Sourcer
 
-Automatically surfaces recent PubMed + bioRxiv papers matching each
-writer's beat, so nobody has to manually trawl databases every month.
-Outputs a single `digest.md` file grouped by beat.
+Automated PubMed sourcing for [Brain Post](https://thebrainpost.co.uk) writers.
 
-## How it works
+I run paper sourcing for Brain Post — every week someone has to scan journal contents and PubMed for recent neuroscience papers worth writing about, then narrow dozens of hits down to a shortlist. That was taking the team 2-3 hours a week. This script does the search and rank part in under a minute; picking what to actually write about is still a human call.
 
-- **PubMed**: searched directly via NCBI's E-utilities using each
-  beat's keywords, restricted to the last N days (`days_back` in
-  `config.yaml`).
-- **bioRxiv**: bioRxiv's API doesn't support keyword search, so the
-  tool pulls every posting in the date window once, then filters it
-  locally against each beat's keywords. This is fetched once and
-  reused across all beats, not refetched per beat.
-- Results from both sources are merged and deduplicated per beat.
-
-## Setup (run it yourself, once)
+## Setup
 
 ```bash
-git clone <your-repo-url>
-cd paper-sourcing-tool
 pip install -r requirements.txt
-python main.py
+export NCBI_EMAIL="your@email.com"      # NCBI requires this
+export NCBI_API_KEY="..."               # optional, doubles your rate limit
 ```
-This creates `digest.md` in the same folder. Open it, skim it, and
-use whatever's actually relevant that month.
 
-## Customizing beats
+## Usage
 
-Edit `config.yaml`. Each beat needs:
-- `name` — shows as a section header in the digest
-- `writer` — whoever owns that beat (or leave as a placeholder)
-- `keywords` — phrases searched in title/abstract; add more to widen
-  results, remove some to narrow them
+```bash
+python brainpost_sourcer.py --topics "dopamine" "working memory" "sleep consolidation" \
+  --days 60 --max-per-topic 5 --open-access-only --out this_weeks_papers.md
+```
 
-Adjust `days_back` and `max_results_per_beat` at the top of the file
-to control how far back it looks and how many results per beat.
+Or `--interactive` if you just want to try one topic without remembering the flags.
 
-## Running it automatically every week
+| Flag | Default | What it does |
+|---|---|---|
+| `--topics` | — | one or more search terms |
+| `--days` | 90 | how far back to search |
+| `--max-per-topic` | 5 | papers returned per topic |
+| `--open-access-only` | False | only papers writers can actually link full-text |
+| `--out` | `sourced_papers.md` | output file |
 
-The included GitHub Actions workflow (`.github/workflows/weekly_digest.yml`)
-runs the tool every Monday and commits the updated `digest.md` back to
-the repo, so the team can just check the file rather than running
-anything themselves.
+## How ranking works
 
-## Notes / known limitations
+Not trying to be clever here, it's a transparent point system, editable at the top of the script:
 
-- PubMed indexing lag means very recent papers sometimes don't show
-  up for a few days after publication — this is a PubMed limitation,
-  not a bug in the tool.
-- The bioRxiv keyword filter is a simple substring match, not
-  semantic search — if a beat's results look thin, widen the keyword
-  phrases in `config.yaml` rather than assuming nothing was posted.
-- This surfaces *candidates*, not final picks — it's meant to cut
-  down searching time, not replace the judgment of picking which two
-  papers are actually worth writing up.
+- +3 if it's from a journal on our priority list (Nature Neuroscience, Neuron, eLife, etc. — configurable)
+- +1 if open access
+- +1 if the abstract is over 100 words, +0.5 more if over 200 — short abstracts are usually not enough to write from
+
+## Known issues
+
+- No citation counts through the free NCBI API, so "impact" is really just a journal prestige proxy, which isn't the same thing and I know it
+- Papers less than about a week old sometimes aren't indexed yet, so very fresh work gets missed
+- A few journals format abstracts oddly and the output snippet comes out truncated mid sentence — haven't fixed this yet
