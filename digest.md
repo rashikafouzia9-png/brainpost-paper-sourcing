@@ -1,4 +1,4 @@
-# Brain Post — Paper Digest (2026-08-02)
+# Brain Post — Paper Digest (2026-08-03)
 
 Covers the last 30 days.
 ## AI & Computational Neuroscience  
@@ -65,9 +65,6 @@ _No matches this window - try widening the keywords in config.yaml._
 - **Contextual cues and transition statistics drive expression of competing motor memories**
   - Kumar A, Kumar AD, Sannamath S et al. — *iScience*, 2026 Jul 17
   - https://pubmed.ncbi.nlm.nih.gov/42437005/
-- **Postnatal relevance of HOXA5 transcription factor in cerebellum-associated behaviors and disorders**
-  - Glibert H, Bridoux L, Moens C et al. — *Behavioral and brain functions : BBF*, 2026 Jul 3
-  - https://pubmed.ncbi.nlm.nih.gov/42399966/
 - **Deciding to simulate: Cognitive mechanisms of predicting the decisions of others**
   - Stuchlý E, Bavard S, Gluth S — *iScience*, 2026 Jul 17
   - https://pubmed.ncbi.nlm.nih.gov/42389597/
@@ -86,10 +83,19 @@ _No matches this window - try widening the keywords in config.yaml._
 - **Behavioral dynamics of different stages of sexual motivation in male and female rats**
   - Oyem JC, Huijgens PT, Mendoza J et al. — *Journal of neuroscience methods*, 2026 Aug
   - https://pubmed.ncbi.nlm.nih.gov/42002005/
+- **Therapeutic potential of Syzygium cumini L. extract in treating anxiety in adult zebrafish (Danio rerio): Behavioral, toxicological, and molecular evidence involving the GABAergic and serotonergic pathways**
+  - Moraes CTV, de Araújo Sousa GM, de Oliveira AF et al. — *Comparative biochemistry and physiology. Toxicology & pharmacology : CBP*, 2026 Aug
+  - https://pubmed.ncbi.nlm.nih.gov/41951019/
 
 ## Molecular & Cellular Neuroscience  
 *Writer: Writer 4*
 
+- **Pressure-dependent effects of hyperbaric oxygen on hippocampal CREB-BDNF signaling and associated changes in synaptic plasticity and recognition memory in healthy rats**
+  - Baktir MA, Cabir A, Beyaz F et al. — *Neuroscience*, 2026 Aug 2
+  - https://pubmed.ncbi.nlm.nih.gov/42543112/
+- **FGF13 exerts neuroprotective effects via activation of the PI3K/AKT signaling pathway and serves as a potential biomarker for depression**
+  - Hu H, Lu J, Du X et al. — *Biochemical and biophysical research communications*, 2026 Jul 31
+  - https://pubmed.ncbi.nlm.nih.gov/42543058/
 - **Mosapride promotes internalization of a TREK1-HTR4 complex and exerts rapid antidepressant-like effects**
   - Lee S, Kim SC, Noh J et al. — *Molecular psychiatry*, 2026 Aug 1
   - https://pubmed.ncbi.nlm.nih.gov/42542439/
@@ -120,15 +126,6 @@ _No matches this window - try widening the keywords in config.yaml._
 - **Self-supervised representations reveal the genetic architecture of human cortical folding**
   - Dufournet A, Laval J, Chavas J et al. — *bioRxiv : the preprint server for biology*, 2026 Jul 24
   - https://pubmed.ncbi.nlm.nih.gov/42538962/
-- **Favorable outcome of engraftment of custom designed RADA16-I based hydrogels functionalized with SDF1 or IL4 mimicking peptides to injured or dystrophic muscles**
-  - Ostaszewska A, Michalska Z, Dzierżyńska M et al. — *Scientific reports*, 2026 Jul 31
-  - https://pubmed.ncbi.nlm.nih.gov/42538336/
-- **Sex differences in the effects of oral antibiotics on the cellular and behavioral consequences of sub-chronic stress in mice**
-  - Miller E, Bork T, McCall C et al. — *Progress in neuro-psychopharmacology & biological psychiatry*, 2026 Jul 31
-  - https://pubmed.ncbi.nlm.nih.gov/42537770/
-- **GluN2D-containing NMDA receptors support dentate granule cell excitability, synaptic plasticity, and memory**
-  - Berthoux, C.; Rodenas-Ruano, A.; Bist, L.; Nasrallah, K.; Castillo, M.; Shelkar, G. P.; Dravid, S. M.; Castillo, P. E. — *bioRxiv (preprint)*, 2026-07-03
-  - https://doi.org/10.64898/2026.03.06.710109
 - **A cell-type-resolved microRNA atlas of adult human brain reveals aging-associated signatures**
   - Dubnov, S.; Laski, L.; Zchut, I.; Avidan, O.; Bennett, E. R.; Greenberg, D. S.; Tujerman, A.; Nitzan, M.; Paldor, I.; Soreq, H. — *bioRxiv (preprint)*, 2026-07-04
   - https://doi.org/10.64898/2026.01.04.697535
@@ -138,3 +135,6 @@ _No matches this window - try widening the keywords in config.yaml._
 - **Regulatory logic of neuronal differentiation in the Drosophila visual system**
   - Treese, M.; Chen, Y.-C.; Tyree, A.; Coyne, R.; Lake, C.; Tabi, O. B.; Rajesh, R.; Chen, Y.-C. D.; Hassan, H.; Li, H.; Desplan, C.; Ozel, M. N. — *bioRxiv (preprint)*, 2026-07-05
   - https://doi.org/10.1101/2025.09.01.673531
+- **Changes in perceptual sampling contribute to representational drift**
+  - Yuan, Y.; Serences, J.; Aoi, M. C. — *bioRxiv (preprint)*, 2026-07-06
+  - https://doi.org/10.64898/2026.06.24.734121
