@@ -1,4 +1,4 @@
-# Brain Post — Paper Digest (2026-08-03)
+# Brain Post — Paper Digest (2026-08-10)
 
 Covers the last 30 days.
 ## AI & Computational Neuroscience  
@@ -10,42 +10,42 @@ _No matches this window - try widening the keywords in config.yaml._
 ## Clinical Neuroscience  
 *Writer: Writer 2*
 
-- **Effectiveness of virtual reality-based rehabilitation on quality of life and upper extremity functions among stroke survivors: A systematic review and meta-analysis**
-  - Tan RR, Liaw SY, Thng YYQ et al. — *International journal of nursing studies advances*, 2026 Dec
-  - https://pubmed.ncbi.nlm.nih.gov/42542637/
-- **Evaluating the impact of high dose inpatient rehabilitation gait training on post stroke physical activity: A secondary analysis of a randomized controlled trial**
-  - Mackie P, Hung SH, Klassen TD et al. — *Archives of physical medicine and rehabilitation*, 2026 Aug 1
-  - https://pubmed.ncbi.nlm.nih.gov/42542201/
-- **Assessing efficacy and safety of dynamic scalp acupuncture for post-stroke rehabilitation: systematic review and meta-analysis protocol**
-  - An SJ, Shin WC, Song J et al. — *Frontiers in neurology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42539642/
-- **Mental simulation practices in stroke rehabilitation reorganize brain connectivity: a systematic review**
-  - Demeco A, Marotta N, Lentini MP et al. — *Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association*, 2026 Jul 31
-  - https://pubmed.ncbi.nlm.nih.gov/42537726/
-- **Joint Associations of Sleep-Disordered Breathing and Cerebral Small Vessel Disease Burden With Executive Performance, Balance, and In-Hospital Falls in Patients With Subacute Supratentorial Ischemic Stroke Undergoing Inpatient Rehabilitation**
-  - Park EJ — *American journal of physical medicine & rehabilitation*, 2026 Jul 31
-  - https://pubmed.ncbi.nlm.nih.gov/42533304/
-- **A multi-paradigm and longitudinal EEG dataset including the "sixth-finger" and "affected-hand" motor imagery of stroke patients**
-  - Wang Z, Liu Y, Huang S et al. — *Scientific data*, 2026 Jul 30
-  - https://pubmed.ncbi.nlm.nih.gov/42533005/
-- **Effect of Visual Modification by Video See-Through Augmented Reality with REHA-Glasses on Postural Verticality in Individuals with Post-Stroke Lateropulsion**
-  - Yokota C, Kamada M, Liu H et al. — *NeuroRehabilitation*, 2026 Jul 30
-  - https://pubmed.ncbi.nlm.nih.gov/42530894/
-- **Nutrigram(®) as a novel BIA-derived parameter for assessing nutritional status in a cohort of post-stroke patients undergoing rehabilitation treatment**
-  - Bertoncini C, Guerrini A, Cocco C et al. — *Frontiers in nutrition*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42528656/
-- **Time course of motor recovery after stroke with and without levodopa: a post hoc 6-month longitudinal analysis of the ESTREL trial**
-  - Trüssel S, Traenka CK, Polymeris A et al. — *European stroke journal*, 2026 Jul 6
-  - https://pubmed.ncbi.nlm.nih.gov/42525438/
-- **Synergistic effects of early sequential enhanced external counterpulsation and electric tilt table training on functional recovery in ischemic stroke: study protocol of a randomized controlled trial**
-  - Shi L, Ma J, Hu X et al. — *Frontiers in neurology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42523731/
-- **Post-discharge kinesiophobia trajectories and rehabilitation outcomes in post-stroke hemiplegia**
-  - Ge H, Zhang X, Chen W et al. — *Physiotherapy theory and practice*, 2026 Jul 28
-  - https://pubmed.ncbi.nlm.nih.gov/42522193/
-- **Rehabilitation outcomes of patients with posterior circulation stroke after acute inpatient rehabilitation**
-  - Chen D, Mah SM, James S et al. — *Frontiers in rehabilitation sciences*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42519283/
+- **Exploring delta/alpha and theta/alpha ratios as longitudinal treatment-response biomarkers in post-stroke rehabilitation**
+  - Inbar I, Weisinger B, Pandey DP et al. — *NeuroImage. Clinical*, 2026 Aug 3
+  - https://pubmed.ncbi.nlm.nih.gov/42551184/
+- **Pulsed Radiofrequency for Post-Stroke Complications: From Neuromodulation to Functional Recovery**
+  - Liu R, Gu H, Kang X et al. — *Current neurology and neuroscience reports*, 2026 Aug 8
+  - https://pubmed.ncbi.nlm.nih.gov/42570137/
+- **Associations between hearing difficulty, labor force status, and health burden in young stroke survivors**
+  - Tobener E, Jacobs M, Ellis C — *Frontiers in stroke*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42568429/
+- **Early Integration of Chinese Medicine Rehabilitation Improves Functional Outcomes in Stroke Patients: A Prospective Pragmatic Study and Nested Case-Control Analysis**
+  - Zhang J, Ng YW, Zhou K et al. — *CNS neuroscience & therapeutics*, 2026 Aug
+  - https://pubmed.ncbi.nlm.nih.gov/42566230/
+- **Bilateral transcutaneous auricular nerve stimulation promotes motor function recovery after stroke: A randomized controlled trial**
+  - Wang J, Liu Q, Zhou Y et al. — *Therapeutic advances in neurological disorders*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42564705/
+- **Nurse-Led Tele-Education Improves Self-Efficacy and Reduces Stroke Readmissions: A Quasi-Experimental Study**
+  - Sani N, Torabi M, Khazaei M et al. — *Telemedicine reports*, 2026 Jan-Dec
+  - https://pubmed.ncbi.nlm.nih.gov/42564619/
+- **Nonparetic forearm fracture and early upper-limb manual function outcomes after stroke rehabilitation**
+  - Choi S, Park EJ — *International journal of rehabilitation research. Internationale Zeitschrift fur Rehabilitationsforschung. Revue internationale de recherches de readaptation*, 2026 Aug 7
+  - https://pubmed.ncbi.nlm.nih.gov/42563399/
+- **"Additive Effects of Repetitive Transcranial Magnetic Stimulation and Transcranial Direct Current Stimulation on Robotic Therapy for Upper Extremity Recovery After Chronic Ischemic Stroke: A Randomized, Double-Blind, Sham-Controlled Trial"**
+  - Çelik Karbancıoğlu E, Yaşar E, Adıgüzel E et al. — *Archives of physical medicine and rehabilitation*, 2026 Aug 6
+  - https://pubmed.ncbi.nlm.nih.gov/42562200/
+- **Design of a lightweight wearable exoskeleton with virtual reality feedback for post-stroke hand rehabilitation**
+  - Yu L, Tang M, Xu L et al. — *Biomedizinische Technik. Biomedical engineering*, 2026 Aug 7
+  - https://pubmed.ncbi.nlm.nih.gov/42561043/
+- **Neuromodulatory effects of repetitive transcranial magnetic stimulation on post-stroke urinary retention: insights from neuroelectrophysiological assessment**
+  - Chen H, Wang G — *Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology*, 2026 Aug 6
+  - https://pubmed.ncbi.nlm.nih.gov/42560423/
+- **Effects of a Virtual Reality-Based Balance Training Program on Clinical Outcomes and Cortical Oscillatory Activity: A Combined Behavioral and EEG Study**
+  - Arora A, Rizvi MR, Sharma A et al. — *NeuroRehabilitation*, 2026 Aug 6
+  - https://pubmed.ncbi.nlm.nih.gov/42560357/
+- **AI-powered robotic assistive technologies in rehabilitation: global trends, ethical dimensions and human-centred futures**
+  - Uyanık G, Bulut A, Serin MK — *Disability and rehabilitation. Assistive technology*, 2026 Aug 6
+  - https://pubmed.ncbi.nlm.nih.gov/42559801/
 
 ## Cognitive & Behavioral Neuroscience  
 *Writer: Writer 3*
@@ -90,51 +90,42 @@ _No matches this window - try widening the keywords in config.yaml._
 ## Molecular & Cellular Neuroscience  
 *Writer: Writer 4*
 
-- **Pressure-dependent effects of hyperbaric oxygen on hippocampal CREB-BDNF signaling and associated changes in synaptic plasticity and recognition memory in healthy rats**
-  - Baktir MA, Cabir A, Beyaz F et al. — *Neuroscience*, 2026 Aug 2
-  - https://pubmed.ncbi.nlm.nih.gov/42543112/
-- **FGF13 exerts neuroprotective effects via activation of the PI3K/AKT signaling pathway and serves as a potential biomarker for depression**
-  - Hu H, Lu J, Du X et al. — *Biochemical and biophysical research communications*, 2026 Jul 31
-  - https://pubmed.ncbi.nlm.nih.gov/42543058/
-- **Mosapride promotes internalization of a TREK1-HTR4 complex and exerts rapid antidepressant-like effects**
-  - Lee S, Kim SC, Noh J et al. — *Molecular psychiatry*, 2026 Aug 1
-  - https://pubmed.ncbi.nlm.nih.gov/42542439/
-- **Neuroscience in pictures: Bipolar disorder**
-  - Song SH, Powell S, Good M et al. — *Asian journal of psychiatry*, 2026 Jul 25
-  - https://pubmed.ncbi.nlm.nih.gov/42542118/
-- **Research progress of traditional Chinese medicine interventions for aging-related nervous system diseases**
-  - Du X, Shen Z, Xu Y et al. — *Biogerontology*, 2026 Aug 1
-  - https://pubmed.ncbi.nlm.nih.gov/42541586/
-- **Molecular and cellular mechanisms of lead-induced neurotoxicity: comparative insights from rodent and zebrafish models**
-  - Firdous SM, Maity D, Marick S — *Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine*, 2026 Aug 1
-  - https://pubmed.ncbi.nlm.nih.gov/42541535/
-- **Seizures associated with clozapine augmentation by other antipsychotics: a pharmacovigilance-pharmacodynamic analysis using VigiBase**
-  - Hatano M, Hamano H, Kanda M et al. — *Therapeutic advances in psychopharmacology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42540002/
-- **The lactate-HCAR1 axis in exercise psychiatry: a candidate mechanism linking bone marrow-brain immunity to inflammation-related depression**
-  - Luan C, Lei C, Liu M — *Frontiers in psychiatry*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42539765/
-- **Synaptic Development of Fine Spatial Scale Organization of Neuronal Orientation Tuning in Mouse Primary Visual Cortex**
-  - Yu P, Tian GJ, Doiron B — *bioRxiv : the preprint server for biology*, 2026 Jul 21
-  - https://pubmed.ncbi.nlm.nih.gov/42539234/
-- **Cell-type Plasticity Supports Behavioral Adaptations at the Water-to-Land Interface**
-  - Matheson AM, Woych J, Zinga TG et al. — *bioRxiv : the preprint server for biology*, 2026 Jul 25
-  - https://pubmed.ncbi.nlm.nih.gov/42539210/
-- **An Acetylation-Primed SUMOylation Switch Controls RORβ Stability through a p300-SIRT1 Regulatory Axis**
-  - Griffin P, O'Leary T, Shutin D et al. — *Research square*, 2026 Jul 23
-  - https://pubmed.ncbi.nlm.nih.gov/42539049/
-- **Self-supervised representations reveal the genetic architecture of human cortical folding**
-  - Dufournet A, Laval J, Chavas J et al. — *bioRxiv : the preprint server for biology*, 2026 Jul 24
-  - https://pubmed.ncbi.nlm.nih.gov/42538962/
-- **A cell-type-resolved microRNA atlas of adult human brain reveals aging-associated signatures**
-  - Dubnov, S.; Laski, L.; Zchut, I.; Avidan, O.; Bennett, E. R.; Greenberg, D. S.; Tujerman, A.; Nitzan, M.; Paldor, I.; Soreq, H. — *bioRxiv (preprint)*, 2026-07-04
-  - https://doi.org/10.64898/2026.01.04.697535
-- **Synaptic plasticity deficits via aberrant engagement of metaplasticity in the hippocampus of PS19 mice**
-  - Sateesh, S.; Logan, B. J.; Jones, O. D.; Abraham, W. C. — *bioRxiv (preprint)*, 2026-07-05
-  - https://doi.org/10.64898/2026.06.30.734148
-- **Regulatory logic of neuronal differentiation in the Drosophila visual system**
-  - Treese, M.; Chen, Y.-C.; Tyree, A.; Coyne, R.; Lake, C.; Tabi, O. B.; Rajesh, R.; Chen, Y.-C. D.; Hassan, H.; Li, H.; Desplan, C.; Ozel, M. N. — *bioRxiv (preprint)*, 2026-07-05
-  - https://doi.org/10.1101/2025.09.01.673531
-- **Changes in perceptual sampling contribute to representational drift**
-  - Yuan, Y.; Serences, J.; Aoi, M. C. — *bioRxiv (preprint)*, 2026-07-06
-  - https://doi.org/10.64898/2026.06.24.734121
+- **[Advances in multi-omics research on methamphetamine-induced neurotoxicity and addiction]**
+  - Xu L, Miao L, Huang J et al. — *Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences*, 2026 Aug 7
+  - https://pubmed.ncbi.nlm.nih.gov/42571966/
+- **Ketamine preserves perineuronal nets in chronic stressed mice brain through the inhibition of microglia activation**
+  - Yang J, Huang T, Wang M et al. — *IBRO neuroscience reports*, 2026 Dec
+  - https://pubmed.ncbi.nlm.nih.gov/42571376/
+- **Exercise attenuates neuropathic pain and neuroinflammation in an obese rat model exhibiting diabetes-related metabolic dysfunction and features of type 2 diabetes**
+  - Sumizono M, Kakimoto S, Nakanishi K et al. — *IBRO neuroscience reports*, 2026 Dec
+  - https://pubmed.ncbi.nlm.nih.gov/42571298/
+- **Acetylcholine enhances deviance detection in Hodgkin-Huxley neuronal networks**
+  - Fang F, Huang ZG, Chao ZC — *Cognitive neurodynamics*, 2026 Dec
+  - https://pubmed.ncbi.nlm.nih.gov/42571115/
+- **Isopropoxate Exerts Neurotoxicity by Crossing the Blood-Brain Barrier and Mediating through Inflammation-Neurotransmitter Signaling Pathways**
+  - Cao R, Chen Z, Cai J et al. — *Toxicology*, 2026 Aug 8
+  - https://pubmed.ncbi.nlm.nih.gov/42570856/
+- **Aerobic exercise improves cognition in sepsis-associated encephalopathy by enhancing glucose metabolism through astrocytic GLUT1**
+  - Liu W, Zeng Q, Cai W et al. — *Experimental neurology*, 2026 Aug 8
+  - https://pubmed.ncbi.nlm.nih.gov/42570837/
+- **Dopamine D2 receptor dependent and independent structural, intrinsic and synaptic adaptations in experimental parkinsonism**
+  - Alberquilla S, Prieto CS, Serrais PM et al. — *Neurobiology of disease*, 2026 Aug 8
+  - https://pubmed.ncbi.nlm.nih.gov/42570776/
+- **Isolation and functional characterization of novel neuropeptides regulating hippocampal neurogenesis**
+  - Marefat A, Sadeghi L, Dehghan G — *Neuropeptides*, 2026 Aug 5
+  - https://pubmed.ncbi.nlm.nih.gov/42570625/
+- **DGIST: A standardized image-based spatial quantification workflow for neurogenesis in the dentate gyrus**
+  - Lee J, Lee W, Kosodo Y — *Advances in biological regulation*, 2026 Aug 4
+  - https://pubmed.ncbi.nlm.nih.gov/42570459/
+- **Multilayer network analysis of dynamic network reconfiguration in alcohol use disorder and its association with multidomain cognitive impairments and neurotransmitter system**
+  - Chen G, Huang X, Yu J et al. — *Progress in neuro-psychopharmacology & biological psychiatry*, 2026 Aug 4
+  - https://pubmed.ncbi.nlm.nih.gov/42551592/
+- **Metabolic atlas of early human cortex reveals glycolytic remodeling and pentose phosphate pathway control of cell fate transitions**
+  - Mil J, Soto JA, Krall AS et al. — *Cell*, 2026 Aug 4
+  - https://pubmed.ncbi.nlm.nih.gov/42551423/
+- **Establishing the role of ZBTB20 mutations in GnRH deficiency and impaired neurogenesis in the subventricular zone: a human cohort and animal model study**
+  - Guan J, Zhu J, Li Y et al. — *EBioMedicine*, 2026 Aug 4
+  - https://pubmed.ncbi.nlm.nih.gov/42551237/
+- **Upregulation of Calbindin in Adult Inhibitory Neurons Reactivates Critical Period Plasticity in Mouse Visual Cortex**
+  - Nakayama, T.; Figueroa-Velez, D.; England, W.; Miyoshi, E.; Hasselmann, J.; Spitale, R. C.; Swarup, V.; Blurton-Jones, M.; Sack, J. T.; Gardner, T. J.; Gandhi, S. P. — *bioRxiv (preprint)*, 2026-07-11
+  - https://doi.org/10.64898/2026.07.08.737337
