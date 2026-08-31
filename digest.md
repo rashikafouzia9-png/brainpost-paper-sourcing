@@ -1,55 +1,59 @@
-# Brain Post — Paper Digest (2026-08-24)
+# Brain Post — Paper Digest (2026-08-31)
 
 Covers the last 30 days.
 ## AI & Computational Neuroscience  
 *Writer: Rashika Elahi*
 
-_No matches this window - try widening the keywords in config.yaml._
-
+- **Deep-learning-assisted brain contouring and serial neurocognitive monitoring in head and neck cancer survivorship: a prospective study**
+  - Kim S, Schofield E, Simeth J et al. — *Clinical and translational radiation oncology*, 2026 Nov
+  - https://pubmed.ncbi.nlm.nih.gov/42662372/
 
 ## Clinical Neuroscience  
 *Writer: Writer 2*
 
-- **How occupational therapists integrate robotic therapy into routine practice: a qualitative study**
-  - Thawisuk C, Suyama N, Miyadera R et al. — *Disability and rehabilitation*, 2026 Aug 22
-  - https://pubmed.ncbi.nlm.nih.gov/42632038/
-- **Very early versus early exercise rehabilitation after intracerebral hemorrhage: A systematic review and meta-analysis**
-  - Kan T, Ding L, Wang S et al. — *Medicine*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42629731/
-- **Measurement properties of a 300-m community-based walking test incorporating environmental walking demands in individuals with subacute stroke**
-  - Lee JM, Kim EJ, Yang SP et al. — *Physiotherapy theory and practice*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42627141/
-- **Quantification of daily upper arm use after stroke using an IMU-based kinematic model**
-  - Goldhamer N, Koren Y, Mizrahi T et al. — *Frontiers in neurology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42626186/
-- **Unveiling the hidden dynamics: patellar support tissue alterations in post-stroke rehabilitation**
-  - Han Y, Li S, Dong J et al. — *Frontiers in rehabilitation sciences*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42625721/
-- **Post-stroke smoking and mental health burden: sex-specific analysis of NHIS 2019-2023**
-  - Agbelie CE, Mojtahedi Z, Lee TH et al. — *Topics in stroke rehabilitation*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42625532/
-- **Promoting the use of evidence (PROMOTE) in upper limb stroke rehabilitation: protocol for a multicentre, cluster-randomised, phase IV implementation trial**
-  - Lannin NA, Jolliffe L, Scrivener K et al. — *BMJ open*, 2026 Aug 19
-  - https://pubmed.ncbi.nlm.nih.gov/42624596/
-- **Feasibility and acceptability of a randomized controlled trial of a patient-centred transition program for stroke survivors and their caregivers-P-NAVISTROKE study**
-  - Delvallée M, Blazer A, Marchal M et al. — *Disability and rehabilitation*, 2026 Aug 20
-  - https://pubmed.ncbi.nlm.nih.gov/42621673/
-- **Effects of qigong exercise on post-stroke cognitive impairment: a systematic review and meta-analysis of randomized controlled trials**
-  - Song C, Xie H, Li H et al. — *Frontiers in neurology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42621020/
-- **Wearable vibrotactile stimulation shirts and gloves for upper extremity stroke rehabilitation: A pilot randomized controlled trial**
-  - Ayyad W, Kim Y, Odom N et al. — *medRxiv : the preprint server for health sciences*, 2026 Aug 5
-  - https://pubmed.ncbi.nlm.nih.gov/42619984/
-- **The pediatric Cogni-Famille protocol: family-mediated manual therapy achieves comparable outcomes at one-eighth cost in children with cerebral palsy-a franco-Cameroonian comparative study**
-  - Npochinto Moumeni I, Abdel-Nasser NM — *Frontiers in pediatrics*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42614434/
-- **Network-oriented neurorehabilitation after stroke: a paradigmatic approach**
-  - Conti FM, Gassert R, Doganci N et al. — *Journal of neuroengineering and rehabilitation*, 2026 Aug 18
-  - https://pubmed.ncbi.nlm.nih.gov/42613619/
+- **Reply to "Reflections on the Hungarian oxford cognitive screen in post-stroke cognitive care"**
+  - Takács TT, Pálinkás P, Gunda B — *Cerebral circulation - cognition and behavior*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42668504/
+- **Contextualized Clinical Practice Guidelines for Post-Stroke Motor Rehabilitation in India: Framework and Endorsement for Implementation**
+  - Gandhi DB, Mascarenhas R, Lynch E et al. — *Cerebrovascular diseases (Basel, Switzerland)*, 2026 Aug 28
+  - https://pubmed.ncbi.nlm.nih.gov/42664169/
+- **Impact of EMG-based interfaces for hand motor rehabilitation in stroke: A systematic review with evidence gap map and meta-analysis**
+  - Guerrero-Mendez CD, Batista NP, Alves Filho JO et al. — *Medical & biological engineering & computing*, 2026 Aug 28
+  - https://pubmed.ncbi.nlm.nih.gov/42663910/
+- **Relationship between kinesiophobia and fear of falling in patients suffering from stroke leading to physical disability in selected rehabilitation center of Bangladesh**
+  - Paul AK, Halder P, Alim MA — *Health psychology open*, 2026 Jan-Dec
+  - https://pubmed.ncbi.nlm.nih.gov/42661938/
+- **Guidelines in Action: Care Coordination Poststroke**
+  - Schettini AT — *Stroke*, 2026 Aug 27
+  - https://pubmed.ncbi.nlm.nih.gov/42657489/
+- **2026 Guideline for Adult Stroke Rehabilitation and Recovery: A Guideline From the American Heart Association and American Stroke Association**
+  - Richards LG, Ifejika NL, Stein J et al. — *Stroke*, 2026 Aug 27
+  - https://pubmed.ncbi.nlm.nih.gov/42657476/
+- **Potential synergistic effects of exercise and gut microbiota on post-stroke recovery: mechanistic insights and a proposed stage-specific research framework**
+  - Zhou L, Leng H, Wang Z et al. — *Frontiers in cellular and infection microbiology*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42656748/
+- **Adaptive Control of Lower-Limb Assistive Exoskeleton for Rehabilitation Using Deep Reinforcement Learning**
+  - Foroutannia A, Mohammadian M, Munasinghe K — *Sensors (Basel, Switzerland)*, 2026 Aug 17
+  - https://pubmed.ncbi.nlm.nih.gov/42655524/
+- **On "Early mobilization in patients with aneurysmal subarachnoid hemorrhage: a prospective observational study." Hernandez S, Tipping C, Deane AM, et al. Phys Ther. 2026;106(4):pzag031.  https://doi.org/10.1093/ptj/pzag031**
+  - Pradhan S, Sharma S — *Physical therapy*, 2026 Aug 3
+  - https://pubmed.ncbi.nlm.nih.gov/42648893/
+- **Virtual Reality Training for Post-Stroke Upper Limb Hemiparesis**
+  - Kitabayashi K, Yoshioka N — *Neurology international*, 2026 Aug 12
+  - https://pubmed.ncbi.nlm.nih.gov/42646371/
+- **Person-centred working relationships that focus on the unique goals of the individual are the heart of supported self-management: a qualitative study with stroke survivors**
+  - Lucas L, Peters S, Cotterill S et al. — *Disability and rehabilitation*, 2026 Aug 25
+  - https://pubmed.ncbi.nlm.nih.gov/42640880/
+- **Towards global standards in stroke rehabilitation and recovery: An international evaluation of practice alignment**
+  - Kandasamy T, Stockley RC, Hendriks JM et al. — *Clinical rehabilitation*, 2026 Aug 25
+  - https://pubmed.ncbi.nlm.nih.gov/42640560/
 
 ## Cognitive & Behavioral Neuroscience  
 *Writer: Writer 3*
 
+- **Editorial: Integrating behavioral neuroscience and educational psychology in healthcare training**
+  - Ghosh S, El Tarhouny S, Nixon E et al. — *Frontiers in medicine*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42661637/
 - **Automated behavioral tracking of zebrafish larvae with DeepLabCut and SLEAP: pre-trained networks and datasets of annotated poses**
   - Scholz LA, Mancienne T, Stednitz SJ et al. — *eNeuro*, 2026 Aug 14
   - https://pubmed.ncbi.nlm.nih.gov/42601222/
@@ -72,45 +76,42 @@ _No matches this window - try widening the keywords in config.yaml._
 ## Molecular & Cellular Neuroscience  
 *Writer: Writer 4*
 
-- **Comparative cytoarchitectural and proteomic analysis of the primary motor cortex in pigs and wild boars reveals domestication associated changes**
-  - Lazzarini G, Ronci M, Zallocco L et al. — *PeerJ*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42633297/
-- **Withdrawal notice to "Corrigendum to Complement activation sustains neuroinflammation and deteriorates adult neurogenesis and spatial memory impairment in rat hippocampus following sleep deprivation" [Brain, Behav., Immun. 137 (2026) 106787]**
-  - Wadhwa M, Prabhakar A, Anand JP et al. — *Brain, behavior, and immunity*, 2026 Aug 22
-  - https://pubmed.ncbi.nlm.nih.gov/42632799/
-- **Exercise-induced hippocampal miR-212/132 expression is preserved despite psychostimulant exposure and viral infection**
-  - Si J, Kim SS, Levitis DL et al. — *Brain, behavior, and immunity*, 2026 Aug 22
-  - https://pubmed.ncbi.nlm.nih.gov/42632526/
-- **Low expression of PDGFR-β impairs the blood-brain barrier and accelerates cellular aging in the hippocampal region**
-  - Chen H, Zhang L, Zhu X et al. — *Biochemical and biophysical research communications*, 2026 Aug 18
-  - https://pubmed.ncbi.nlm.nih.gov/42632331/
-- **Blue artificial light at night is associated with cognitive impairment involving alterations in microglial TREM2-TYROBP signaling and phospholipid metabolism: A multi-omics study**
-  - Sun Z, Lei T, Tan S et al. — *Ecotoxicology and environmental safety*, 2026 Aug 22
-  - https://pubmed.ncbi.nlm.nih.gov/42632171/
-- **Microbial Metabolites and Neural Epigenetic Circuitry in Emotional Homeostasis and Depression**
-  - Chen Y, Gong X, Chen Y et al. — *Nutrition reviews*, 2026 Aug 22
-  - https://pubmed.ncbi.nlm.nih.gov/42632111/
-- **Glucose-Lowering Therapies and Cognitive Decline: From Molecular Mechanisms to Clinical Evidence and Future Perspectives**
-  - Grasso M, Maggio V, Caraci F et al. — *Advances in therapy*, 2026 Aug 22
-  - https://pubmed.ncbi.nlm.nih.gov/42631802/
-- **MCM3 Safeguards Neural Progenitor Maintenance and Cortical Development Against Replication-Associated Stress**
-  - Xu Z, Chen J, He S et al. — *Molecular neurobiology*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42629508/
-- **Dysregulated adult hippocampal neurogenesis in major depressive disorders**
-  - Peng MS, Jiang J, Polizzi L et al. — *Nature medicine*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42629468/
-- **Electroacupuncture at combined acupoints GV20/ST36/GB34 regulates BDNF/TrkB-mediated synaptic remodeling and alleviates post-stroke sensorimotor deficits in male rats**
-  - Ma L, Yang T, Zhou Y — *Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42628820/
-- **Epigenetic Mechanisms in Post-Stroke Neuronal Resilience and Survival Pathways**
-  - Xia Y, Yan X, Zhao Y et al. — *Neurochemistry international*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42628797/
-- **Effects of testosterone upon the survival of new neurons in the dentate gyrus of adult male rats**
-  - Hamilton TW, LeMole EJ, Nadecki GK et al. — *Neuroscience*, 2026 Aug 21
-  - https://pubmed.ncbi.nlm.nih.gov/42628782/
-- **Cell-type Plasticity Supports Behavioral Adaptations at the Water-to-Land Interface**
-  - Matheson, A. M.; Woych, J.; Zinga, T. G.; Spollen, N.; Policarpo, M.; Gattoni, G.; Graham, G.; Geiger, L. T.; Ortega-Gurrola, A.; Jaeger, E. C.; Salzburger, W.; Tosches, M. A. — *bioRxiv (preprint)*, 2026-07-25
-  - https://doi.org/10.64898/2026.07.25.740661
-- **Mitochondria structurally remodel near synapses to fuel the sustained energy demands of plasticity**
-  - Shah, M.; Ghosh, I.; Shree Ramesh, N.; Pishos, L.; Pancani, T.; Villani, V.; Yasuda, R.; Sun, C.; Kamasawa, N.; Rangaraju, V. — *bioRxiv (preprint)*, 2026-07-27
-  - https://doi.org/10.1101/2025.08.27.672715
+- **Shugan Bushen decoction alleviates lumbar disc herniation-related pain and affective disturbances by modulating amygdala synaptic plasticity and neuroinflammation**
+  - Huang Z, Xu J, Gao J et al. — *Journal of ethnopharmacology*, 2026 Aug 30
+  - https://pubmed.ncbi.nlm.nih.gov/42669361/
+- **Ferulic acid eicosyl ester enhances cognitive flexibility and modulates arousal-related neural circuits in mice**
+  - Mayer D, Hassan I, Taskaya F et al. — *Behavioural brain research*, 2026 Aug 30
+  - https://pubmed.ncbi.nlm.nih.gov/42669349/
+- **Physical Therapies and Neuromodulation for Treatment-Resistant Schizophrenia: A Review of Potential Mechanisms, Efficacy, and Safety**
+  - Zhao H, Ding Y, Xing H et al. — *Neuropsychiatric disease and treatment*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42668991/
+- **The Reparative Mechanisms Underlying Preclinical Neural Stem/Progenitor Cell Therapy for Ischemic Stroke: A Systematic Review**
+  - Nyarkoh JK, Asiamah EA, Nyarko SB et al. — *Neurology research international*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42668950/
+- **Harnessing biological variability for mechanistic inference: A stochastic framework applied to neural stem cell dynamics**
+  - Wang RY, Danciu DP, Klawe FZ et al. — *iScience*, 2026 Sep 18
+  - https://pubmed.ncbi.nlm.nih.gov/42668621/
+- **Thermal-Budget-Decoupled Integration of Freestanding Hafnium-Based Ferroelectric Dielectrics for van der Waals Memory Transistors**
+  - Zhao S, Zheng MC, Yang FS et al. — *Advanced materials (Deerfield Beach, Fla.)*, 2026 Aug 30
+  - https://pubmed.ncbi.nlm.nih.gov/42668432/
+- **Iron dyshomeostasis and its neurobiological mechanisms in psychiatric disorders**
+  - Li C, Tan S, Wu Z et al. — *Molecular psychiatry*, 2026 Aug 29
+  - https://pubmed.ncbi.nlm.nih.gov/42668270/
+- **Benzo[a]pyrene-induced AHR activation in human ESCs primes premature neurogenesis in cerebral organoids**
+  - Jeong B, Yang L, Ranathunge T et al. — *Journal of hazardous materials*, 2026 Aug 28
+  - https://pubmed.ncbi.nlm.nih.gov/42667716/
+- **Spatial correspondence between altered brain function and normative neurotransmitter density maps in Type 1 diabetes mellitus**
+  - Yang X, Zhao L, He Y et al. — *Journal of endocrinological investigation*, 2026 Aug 29
+  - https://pubmed.ncbi.nlm.nih.gov/42667349/
+- **The transcription factor CLAMP is required for neurogenesis in Drosophila melanogaster**
+  - Tsiarli MA, Kentro J, Conard AM et al. — *Genetics*, 2026 Aug 29
+  - https://pubmed.ncbi.nlm.nih.gov/42667114/
+- **Application of photobiomodulation in post-stroke dysfunctions: a literature review of recent clinical studies**
+  - Ren C, Chi X, Jiang Y — *Frontiers in neurology*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42666436/
+- **Mechanical constraints on cell plasticity: insights from the olfactory epithelium**
+  - Aguillon R, Dufourcq P, Batut J — *Frontiers in cell and developmental biology*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42666419/
+- **Distinct neurogenic progenitor cell populations balance cell type production in the embryonic mouse retina**
+  - Bushnell, H.; Cepko, C. — *bioRxiv (preprint)*, 2026-08-04
+  - https://doi.org/10.64898/2026.08.03.738451
