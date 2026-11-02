@@ -1,65 +1,71 @@
-# Brain Post — Paper Digest (2026-10-26)
+# Brain Post — Paper Digest (2026-11-02)
 
 Covers the last 30 days.
 ## AI & Computational Neuroscience  
 *Writer: Rashika Elahi*
 
+- **A Physiology-Informed Deep Learning Approach for Sleep-EEG Brain Age Estimation**
+  - Fan J, Sun H, Leng Y et al. — *IEEE journal of biomedical and health informatics*, 2026 Oct 27
+  - https://pubmed.ncbi.nlm.nih.gov/42945059/
 - **Adaptive Control Point B-Spline Method for Improving Accuracy and Deformation Plausibility in Deep Learning Brain Registration**
   - Lin H, Song Y, Su Y — *IEEE journal of biomedical and health informatics*, 2026 Oct 21
   - https://pubmed.ncbi.nlm.nih.gov/42905582/
+- **Deep-learning-assisted brain contouring and serial neurocognitive monitoring in head and neck cancer survivorship: a prospective study**
+  - Kim S, Schofield E, Simeth J et al. — *Clinical and translational radiation oncology*, 2026 Nov
+  - https://pubmed.ncbi.nlm.nih.gov/42662372/
 
 ## Clinical Neuroscience  
 *Writer: Writer 2*
 
-- **Digital Interventions for Post-Stroke Rehabilitation: A Scoping Review of Delivery Method, Content, and Outcome**
-  - Prasetyo A, Pramukti I, Kurniawan T et al. — *Journal of multidisciplinary healthcare*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42928784/
-- **Identifying activities and participation domains with severe dependence using the ICF-based LIMOS-Br in chronic stroke**
-  - Monteiro BC, Ottiger B, Janizello GP et al. — *Disability and rehabilitation*, 2026 Oct 23
-  - https://pubmed.ncbi.nlm.nih.gov/42924528/
-- **Implementing robotic-assisted therapy in stroke rehabilitation: a structured narrative review of evidence and technology adoption barriers in Indonesia**
-  - Wijaya EB, Thu PW, Chen PC — *Frontiers in rehabilitation sciences*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42923584/
-- **Preclinical evaluation of a safety-aware multimodal robotic pipeline for human-robot interaction in post-stroke rehabilitation**
-  - Guerra BMV, Soldi R, Lunghi F et al. — *Frontiers in digital health*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42920748/
-- **A machine learning model for predicting cognitive improvement after scalp cluster needling therapy in patients with post-stroke mild cognitive impairment**
-  - Hao Y, Wei X, Zhao P et al. — *Frontiers in neurology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42920443/
-- **Social Participation in Community Dwelling Minority Stroke Survivors: Decolonizing Research**
-  - Melifonwu R, Atwal A, Flood C et al. — *Current neurology and neuroscience reports*, 2026 Oct 22
-  - https://pubmed.ncbi.nlm.nih.gov/42911296/
-- **Effectiveness of interventions for caregiver burden and quality of life of informal caregivers of stroke survivors: a systematic review and meta-analysis**
-  - Lin M, Xie S, Wang B et al. — *Frontiers in public health*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42909033/
-- **Behavioural intervention and guided stepping training early post-stroke (BIG STEPS): protocol for a multicentre randomised controlled trial**
-  - van Eeden C, Khan A, Alemayehu W et al. — *BMJ open*, 2026 Oct 20
-  - https://pubmed.ncbi.nlm.nih.gov/42901558/
-- **Comparative Effectiveness of Rehabilitation Nursing Interventions in Patients With Post-Stroke Dysphagia: A Systematic Review and Network Meta-Analysis**
-  - Lai R, Jin L, Chen S et al. — *Japan journal of nursing science : JJNS*, 2026 Oct
-  - https://pubmed.ncbi.nlm.nih.gov/42896962/
-- **SERS Combined with PCA-SVM-Based Identification Study of Different Brands of Levetiracetam**
-  - Zhang H, Li N, Hasi W et al. — *ACS omega*, 2026 Oct 13
-  - https://pubmed.ncbi.nlm.nih.gov/42889676/
-- **Upper extremity motor outcomes during paired vagus nerve stimulation in chronic ischemic stroke: a retrospective single-health-system cohort study**
-  - Benitez R, Darling M, Zaorski P et al. — *Frontiers in neurology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42876751/
-- **Associated factors and predictive modeling of deep vein thrombosis in stroke patients undergoing rehabilitation**
-  - Wang Y, Jiang W, Xing Y et al. — *Frontiers in neurology*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42876509/
+- **The Golden Neuroplastic Period: A Framework for Standardised Patient-centred Stroke Rehabilitation**
+  - Paul S, Das H, Kumar V et al. — *Annals of neurosciences*, 2026 Oct 29
+  - https://pubmed.ncbi.nlm.nih.gov/42968902/
+- **Supportive Environmental Design for Post-stroke Rehabilitation: A Participatory Concept Mapping Study**
+  - Elf M, Lipson-Smith R, de Vries L et al. — *HERD*, 2026 Nov 1
+  - https://pubmed.ncbi.nlm.nih.gov/42967999/
+- **Hand-Arm Bimanual Intensive Therapy Including Lower Extremities (HABIT-ILE) in adults with chronic stroke: a randomized controlled trial**
+  - Gathy E, Ebner-Karestinos D, Carton de Tournai A et al. — *Annals of physical and rehabilitation medicine*, 2026 Oct 31
+  - https://pubmed.ncbi.nlm.nih.gov/42966330/
+- **Social participation after community stroke rehabilitation: individual and intervention factors in a retrospective cohort study**
+  - Poyet A, Vielotte S, Dalmon L et al. — *Annals of physical and rehabilitation medicine*, 2026 Oct 31
+  - https://pubmed.ncbi.nlm.nih.gov/42966329/
+- **Remote supervised exercise- and physical activity-based rehabilitation for post-stroke depression, anxiety, and quality of life: a systematic review, evidence map, and exploratory quantitative synthesis**
+  - Zhang C, Zhou Z, Cai J et al. — *Frontiers in psychiatry*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42964023/
+- **Motor memory consolidation during sleep after stroke: the rehabilitation timing hypothesis**
+  - Aderinto N, Jane Oyedele T, Aljamea FH — *Topics in stroke rehabilitation*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42960484/
+- **The Hungarian version of the oxford cognitive screen (OCS-HU): Normative data and comparison of mild stroke to neurologically healthy adults**
+  - Takács TT, Szabó E, Webb S et al. — *Cerebral circulation - cognition and behavior*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42960310/
+- **Music-based interventions in stroke rehabilitation: stakeholder perspectives from a qualitative study in Singapore**
+  - Pang S, Chang C, Chen N et al. — *Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42957891/
+- **Integrating fall detection technology in healthcare: A feasibility study of fall sensor usability**
+  - Svensson A, Schewe Loxley K, Nygård Olsen M et al. — *Work (Reading, Mass.)*, 2026 Oct 29
+  - https://pubmed.ncbi.nlm.nih.gov/42957599/
+- **Unveiling the potential of needle knife therapy for post-stroke spastic hemiparesis: a comprehensive systematic review and meta-analysis protocol**
+  - Hu Z, Li H, Huang Q et al. — *BMJ open*, 2026 Oct 29
+  - https://pubmed.ncbi.nlm.nih.gov/42957297/
+- **Digital and technology‑enabled approaches for post‑stroke fatigue: A scoping review protocol**
+  - Huang X, Xu J, Wang L et al. — *PloS one*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42955941/
+- **Integrating Functional Cognitive Rehabilitation With Activity-Based Stroke Telerehabilitation: Intervention Design and Development Study**
+  - Finetto P, Woodbury ML, Laura J et al. — *JMIR rehabilitation and assistive technologies*, 2026 Oct 27
+  - https://pubmed.ncbi.nlm.nih.gov/42954143/
 
 ## Cognitive & Behavioral Neuroscience  
 *Writer: Writer 3*
 
+- **From aspiration to accountability: Human rights-based care and support for older persons at the UN Convention moment**
+  - Rabheru K, Jeste DV, Reynolds CF 3rd — *International psychogeriatrics*, 2026 Oct 26
+  - https://pubmed.ncbi.nlm.nih.gov/42934056/
 - **Leveraging Preclinical Models to Understand Human Neurobiology and Behavior**
   - Dearborn JT, Selmanovic D, Chaturvedi SM et al. — *Current topics in behavioral neurosciences*, 2026 Oct 17
   - https://pubmed.ncbi.nlm.nih.gov/42888368/
 - **From animal behavior to human perioperative neurocognitive disorders: Translational boundaries of the gut-brain axis**
   - Zhu C, Wei J — *Behavioural brain research*, 2026 Oct 13
   - https://pubmed.ncbi.nlm.nih.gov/42869281/
-- **Pigs as large-animal models for translational behavioral neuroscience**
-  - Lorenzo Gonzalez AP, Allen LM, Vinerean HV et al. — *Behavioral neuroscience*, 2026 Oct 1
-  - https://pubmed.ncbi.nlm.nih.gov/42821421/
 - **Automated Behavior Analysis in the Novel Object Recognition Test**
   - Alfs-Votipka E, Sivayokan B, Bakshi A et al. — *Neurocomputing*, 2026 Oct 7
   - https://pubmed.ncbi.nlm.nih.gov/42375494/
@@ -70,42 +76,42 @@ Covers the last 30 days.
 ## Molecular & Cellular Neuroscience  
 *Writer: Writer 4*
 
-- **Arhgef1 Deletion Disrupts Early Cortical Neurogenesis via PAK1 Overactivation and Causes Motor Dysfunction in Adulthood**
-  - Li L, Ma X, Ding Z et al. — *Advanced science (Weinheim, Baden-Wurttemberg, Germany)*, 2026 Oct 25
-  - https://pubmed.ncbi.nlm.nih.gov/42928451/
-- **The dual role of BDNF in epilepsy: insights from calpain-mediated TrkB-FL cleavage**
-  - Ribeiro-Rodrigues L, Griškova-Bulanova I, Diógenes MJ et al. — *Pharmacological research*, 2026 Oct 25
-  - https://pubmed.ncbi.nlm.nih.gov/42927808/
-- **When the Brain Signals Danger: Roles of Calreticulin and HMGB1 in Cell Death Mechanisms in Neurooncology and Neurodegeneration**
-  - Mishchenko TA, Grechukhina AA, Kulikov SS et al. — *Biochemistry. Biokhimiia*, 2026 Oct
-  - https://pubmed.ncbi.nlm.nih.gov/42927744/
-- **O-linked β-N-acetylglucosamine homeostasis in brain health and disease: From physiology to neurodevelopmental and neurodegenerative disorders**
-  - Di Domenico F, Ashraf L, Slawson C et al. — *Neural regeneration research*, 2026 Oct 24
-  - https://pubmed.ncbi.nlm.nih.gov/42927476/
-- **Vagus nerve stimulation enhances context discrimination and dentate gyrus neurogenesis through Trk signaling**
-  - Raza SA, Calderón-Williams DR, Grandhe NS et al. — *Brain communications*, 2026
-  - https://pubmed.ncbi.nlm.nih.gov/42927139/
-- **Brain-Targeted Epigenome-Wide Association Study of Childhood Internalizing and Externalizing Behaviors: Evidence from a Monozygotic Twin Cohort**
-  - Semple M, Hanson T, Hughes D et al. — *Research square*, 2026 Oct 6
-  - https://pubmed.ncbi.nlm.nih.gov/42926923/
-- **Triple-Omics Analysis Unveiled the Neuroprotective Mechanisms of Akkermansia muciniphila in an Environmental Exposure-Linked Mouse Model of Alzheimer's Disease**
-  - Kowash Z, Lim J, Annalora AJ et al. — *bioRxiv : the preprint server for biology*, 2026 Oct 7
-  - https://pubmed.ncbi.nlm.nih.gov/42926367/
-- **PPT1-mediated GABA(A)Rα1 depalmitoylation maintains inhibitory synaptic homeostasis and cognition**
-  - Feng M, Wu W, Wang Z et al. — *Neurobiology of disease*, 2026 Oct 24
-  - https://pubmed.ncbi.nlm.nih.gov/42926002/
-- **Altered intersubject variability of functional connectivity in gray and white matter underlying neurocognition and genetic profiles in neuromyelitis optica spectrum disorder**
-  - Huang C, Lu W, Liu J — *Neural regeneration research*, 2026 Oct 24
-  - https://pubmed.ncbi.nlm.nih.gov/42925511/
-- **Unlocking therapeutic potential of Wnt signaling pathway in neurodegenerative diseases**
-  - Shah A, Godad A, Bagwe Parab S — *Metabolic brain disease*, 2026 Oct 24
-  - https://pubmed.ncbi.nlm.nih.gov/42925434/
-- **Neurotrophic regulation of lipid metabolism in Alzheimer's disease: Mechanisms and therapeutic implications**
-  - Fan D, Zhai W, Zhang Q et al. — *Journal of Alzheimer's disease : JAD*, 2026 Oct 24
-  - https://pubmed.ncbi.nlm.nih.gov/42925307/
-- **Targeting m6A Reader Phase Separation in Synaptic Plasticity: A Hypothesis-Generating Framework for Epitranscriptomic Drug Discovery**
-  - Rastmanesh R — *Epigenomes*, 2026 Oct 5
-  - https://pubmed.ncbi.nlm.nih.gov/42924723/
-- **Mitochondria remodel near synapses to boost metabolic capacity and fuel plasticity**
-  - Shah, M.; Ghosh, I.; Shree Ramesh, N.; Pishos, L.; Pancani, T.; Villani, V.; Yasuda, R.; Loomba, S.; Sun, C.; Kamasawa, N.; Rangaraju, V. — *bioRxiv (preprint)*, 2026-09-26
-  - https://doi.org/10.1101/2025.08.27.672715
+- **Multiple Muscles Respond Differently to the Same Dual-Network Motor Neuron Activity**
+  - Gnanabharathi B, Sheridan AA, Pinter AR et al. — *Journal of neurophysiology*, 2026 Nov 1
+  - https://pubmed.ncbi.nlm.nih.gov/42968623/
+- **Integrated clinical and transcriptomic analysis reveals miRNA-mediated mechanisms linking hearing loss to cognitive decline in Alzheimer's disease**
+  - Wang X, Zhang B, Ma H et al. — *Journal of Alzheimer's disease : JAD*, 2026 Nov 1
+  - https://pubmed.ncbi.nlm.nih.gov/42968239/
+- **Neuroinflammation-Associated Synaptic Dysfunction in Neurodegenerative Diseases: A Dual-Database Parallel Bibliometric Analysis**
+  - You L, Ke Z, Zhang B et al. — *Journal of visualized experiments : JoVE*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42965328/
+- **Environmental enrichment as a multisystem modulator of neurotransmitter function: mechanisms, plasticity, and therapeutic implications**
+  - Singhal G, Baune BT — *Frontiers in molecular neuroscience*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42964769/
+- **Chronic circadian misalignment in military personnel: a potential contributor to neuroinflammation risk**
+  - Novak A, Teglas T — *Frontiers in molecular neuroscience*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42964468/
+- **Unraveling the Relationship Between Nr4a2 and Fezf1 Expression in the Developing Feline Telencephalon Within the Genoarchitectonic Context of Claustral and Amygdalar Development**
+  - Siskos N, Vasileiou AR, Archontoulaki E et al. — *The Journal of comparative neurology*, 2026 Nov
+  - https://pubmed.ncbi.nlm.nih.gov/42963955/
+- **Elevated mitochondrial metabolism in Down syndrome iPSCs reduces commitment to neuroectoderm**
+  - Chaklader M, Souza Bomfim GH, Zhu J et al. — *EMBO reports*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42963431/
+- **Oxidative stress in major depressive disorder: from experimental models to clinical therapeutic perspectives**
+  - Pervaiz S, Cattane N, Cattaneo A — *Brain, behavior, and immunity*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42963008/
+- **The metabolic-brain axis: GLP-1 signaling, insulin resistance, and obesity pharmacotherapy in neurodegeneration**
+  - Santerre M, Shcherbik N, Sawaya BE — *Metabolism: clinical and experimental*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42962966/
+- **The neurobiology of menopause: Implications for brain aging and Alzheimer's risk**
+  - Mosconi L — *Neuron*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42962664/
+- **Paroxetine-induced transient apoptosis with delayed neurogenesis triggers brain-preferential regeneration in developing zebrafish**
+  - Sato T, Saito K, Oyu T et al. — *PloS one*, 2026
+  - https://pubmed.ncbi.nlm.nih.gov/42961999/
+- **Berberine improves cognitive impairment in diabetic mice by mitigating 4-HNE-induced oxidative stress and enhancing hippocampal insulin sensitivity**
+  - Gupta M, Rumman M, Mahdi AA et al. — *Molecular biology reports*, 2026 Oct 30
+  - https://pubmed.ncbi.nlm.nih.gov/42961528/
+- **The synaptic tag as an emergent biophysical state depending on the synaptic actin dynamics and the postsynaptic density**
+  - Negri, F.; Luboeinski, J.; Tetzlaff, C.; Fauth, M. — *bioRxiv (preprint)*, 2026-10-06
+  - https://doi.org/10.1101/2025.02.18.638822
